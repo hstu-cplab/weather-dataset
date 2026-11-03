@@ -1,7 +1,6 @@
 # Weather Dataset
 
-This directory contains the weather-focused subset of the original
-`soil-weather-dataset.csv` file. It is intended for weather analysis,
+This directory contains the weather-focused dataset for crop recommendation research. It is intended for weather analysis,
 environmental pattern exploration, crop-classification experiments, and other
 machine-learning workflows using atmospheric and weather-related measurements.
 
